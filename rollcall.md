@@ -77,3 +77,9 @@ _Are we doing this in reverse alphabetical order?_
     * On Yahoo: rmurdock90@yahoo.com
     * On WNE roland.murdock@wne.edu
     * IRC: Data
+
+* Patti Ordóñez, University of Puerto Rico Río Piedras
+    * On GitHub: pattiordonez
+    * On Gmail: pattiordonez@gmail.com
+    * On IRC: Patti
+
